@@ -5,6 +5,7 @@
  * Project: 'hello_nucleo.Debug+NUCLEO-F756ZG' 
  * Target:  'Debug+NUCLEO-F756ZG' 
  * Date:    2023-10-04 14:23:00
+ * User:    <user>
  */
 
 #ifndef RTE_COMPONENTS_H
