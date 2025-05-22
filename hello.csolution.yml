@@ -28,6 +28,9 @@ solution:
        - set: 
          debugger:
            name: ST-LINK
+         images:
+           - project-context: hello_nucleo.Debug
+
     - type: avh
       device: ARMCM7
 
